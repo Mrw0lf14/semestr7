@@ -46,4 +46,3 @@ void TFT9341_SendData(uint8_t dt);
 void TFT9341_WriteData(uint8_t* buff, size_t buff_size);
 //-------------------------------------------------------------------
 #endif /* __SPI_ILI9341_H */
-
